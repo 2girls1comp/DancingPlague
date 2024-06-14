@@ -2,6 +2,7 @@
 A mod that makes all male NPCs dance as long as the H key is pressed.
 
 TRAILER:
+
 https://youtu.be/wtrvN_u4ksA
 
 INSTALLATION:
@@ -15,6 +16,7 @@ REQUIREMENTS:
 - [Script Hook V Dot Net](https://github.com/crosire/scripthookvdotnet/releases)
 
 MUSIC:
+
 Magnetic Service (Extended Version) composed & produced by Azu Tiwaline with the authorisation of Livity Sound & Cylid Publishing.
 
 ![Dancing_Plague](screenshots/dancingPlague_screenshot1.jpg)
