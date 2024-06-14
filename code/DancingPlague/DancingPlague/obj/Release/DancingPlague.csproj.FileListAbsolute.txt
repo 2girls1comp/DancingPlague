@@ -1,0 +1,9 @@
+C:\Users\razer\Documents\DancingPlague\DancingPlague\bin\Release\DancingPlague.dll
+C:\Users\razer\Documents\DancingPlague\DancingPlague\bin\Release\DancingPlague.pdb
+C:\Users\razer\Documents\DancingPlague\DancingPlague\bin\Release\ScriptHookVDotNet3.dll
+C:\Users\razer\Documents\DancingPlague\DancingPlague\bin\Release\ScriptHookVDotNet3.xml
+C:\Users\razer\Documents\DancingPlague\DancingPlague\obj\Release\DancingPlague.csproj.AssemblyReference.cache
+C:\Users\razer\Documents\DancingPlague\DancingPlague\obj\Release\DancingPlague.csproj.CoreCompileInputs.cache
+C:\Users\razer\Documents\DancingPlague\DancingPlague\obj\Release\DancingPlague.csproj.CopyComplete
+C:\Users\razer\Documents\DancingPlague\DancingPlague\obj\Release\DancingPlague.dll
+C:\Users\razer\Documents\DancingPlague\DancingPlague\obj\Release\DancingPlague.pdb
