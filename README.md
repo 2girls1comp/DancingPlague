@@ -1,7 +1,7 @@
 # Dancing Plague
 A mod that makes all male NPCs dance as long as the H key is pressed.
 
-GAMEPLAY TRAILER:
+TRAILER:
 https://youtu.be/wtrvN_u4ksA
 
 INSTALLATION:
