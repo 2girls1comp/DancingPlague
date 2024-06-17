@@ -157,9 +157,6 @@ namespace DancingPlague
 
                                 Function.Call(Hash.SET_ENTITY_ANIM_SPEED, NearbyPeds[i], AnimDict[randomDance], AnimName[randomDance], randomDanceSpeed * 0.01f);
 
-                                //GTA.UI.Screen.ShowSubtitle("Anim play time: " + (Function.Call<double>(Hash.GET_ENTITY_ANIM_CURRENT_TIME, NearbyPeds[i], AnimDict[randomDance], AnimName[randomDance])));
-                                
-
                                 dancingNPCs.Add(NearbyPeds[i]);
                             }
                         }
